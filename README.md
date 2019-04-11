@@ -31,3 +31,9 @@ Your LAMP stack is now ready!! You can access it via `http://localhost`.
 ## Configuration and Usage
 
 Please read from appropriate version branch.
+
+- demarrer
+
+- s'arreter
+
+    docker stop my command
